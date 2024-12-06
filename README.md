@@ -6,8 +6,6 @@ Concentrate all your thoughts upon the work at hand.
 
 ## Things I code with
 
-#### Languages
-
 <div>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E.svg?logo=javascript&logoColor=black" />
@@ -15,8 +13,6 @@ Concentrate all your thoughts upon the work at hand.
   <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff" />
 </div>
-
-#### Frontend
 
 <div>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?&logo=react&logoColor=white" />
@@ -40,8 +36,6 @@ Concentrate all your thoughts upon the work at hand.
   <img alt="SVG" src="https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=fff" />
 </div>
 
-#### Backend
-
 <div>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff" />
@@ -54,16 +48,12 @@ Concentrate all your thoughts upon the work at hand.
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff" />
 </div>
 
-#### Database
-
 <div>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white" />
 </div>
-
-#### Test & Doc
 
 <div>
   <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white" />
@@ -77,8 +67,6 @@ Concentrate all your thoughts upon the work at hand.
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" />
 </div>
 
-### Cloud & Hosting
-
 <div>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?logo=google-cloud&logoColor=white" />
@@ -88,8 +76,6 @@ Concentrate all your thoughts upon the work at hand.
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000"  />
 </div>
 
-#### Version Control & CI/CD
-
 <div>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img alt="GitHub actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white" />
@@ -97,8 +83,6 @@ Concentrate all your thoughts upon the work at hand.
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white" />
 </div>
-
-#### Preferred IDEs & Tools
 
 <div>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff" />
