@@ -92,6 +92,5 @@ Concentrate all your thoughts upon the work at hand.
 ## Github's Status
 
 <div align="center">
-    <img height="auto" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=starter69&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Bertrand Conxy" />
-    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=starter69" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=starter69" />
 </div>
